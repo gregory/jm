@@ -1,1 +1,1 @@
-web: bin/hubot -a hipchat -n 'Ed'
+web: bin/hubot -a hipchat
